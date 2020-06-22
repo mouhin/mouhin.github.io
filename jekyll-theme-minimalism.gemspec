@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-minimalism"
-  spec.version       = "0.1.13"
-  spec.authors       = ["showzeng"]
-  spec.email         = ["kingstageshow@gmail.com"]
+  spec.version       = "2020.06.22"
+  spec.authors       = ["mouhin"]
+  spec.email         = ["mouhin@126.com"]
 
   spec.summary       = "1234567890"
-  spec.homepage      = "https://github.com/showzeng/minimalism"
+  spec.homepage      = "https://github.com/mouhin/mouhin.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
