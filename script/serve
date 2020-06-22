@@ -1,4 +1,4 @@
-#!/bin/sh
+  3A#!/bin/sh
 # Start the local preview server
 
 set -e
